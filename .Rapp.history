@@ -1,0 +1,33 @@
+?sovle
+?solve
+?ginv
+c = rbind(c(1, -1/4), c(-1/4, 1))
+solve(c)
+solve(c) %*% c
+set.seed(1)
+rpois(5, 2)
+set.seed(10)
+x <- rep(0:1, each = 5)
+e <- rnorm(10, 0, 20)
+y <- 0.5 + 2* x +e
+plot(x, y)
+?rep
+library(datasets)
+Rprof()
+fit <- lm(y ~ x1+x2)
+set seed(1)
+set.seed(1)
+rpois(5, 2)
+?dpois
+set.seed(1)
+rpois(5, 2)
+set.seed(10)
+x <- rep(0:1, each = 5)
+x
+source(cachematrix)
+getwd()
+ls
+load(cachematrix.R)
+getwd()
+source(cachematrix.R)
+read(cachematrix)

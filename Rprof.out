@@ -1,0 +1,4 @@
+sample.interval=20000
+"paste0" "value[[3]]" "tryCatchOne" "tryCatchList" "tryCatch" "try" 
+"close.connection" "close" "readRDS" "index.search" "help" "eval" "eval" "?" 
+"grep" "isBlankRd" "writeWrapped" "writeBlock" "writeContent" "writeSection" "Rd2HTML" "httpd" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "try" 
